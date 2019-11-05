@@ -7,8 +7,9 @@ pizza sauce (see sauce recipe)
 green peppers
 mushrooms
 pineapple
+mozzarella cheese
 
 Instructions:
 1. Spread pizza dough evenly in pan. Toss first if you like.
 2. Spread a thin layer of sauce over the dough.
-
+3. Sprinkle an even layer of chees over the sauce.
